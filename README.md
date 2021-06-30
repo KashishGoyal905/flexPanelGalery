@@ -1,6 +1,6 @@
 ## flexPanelGalery
 
-1) Under Maintanence
+1) just some fun with flex properties.
 
 ## How To Open
 1) Fork The Repository:
